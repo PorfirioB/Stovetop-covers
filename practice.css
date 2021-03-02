@@ -1,0 +1,89 @@
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet" type="text/css">
+
+<style>
+
+
+h1{
+    color: blue;}
+    
+h1{font-size: 50px;
+
+}
+   
+h1 {font-family: 'Open Sans Condensed', sans-serif;
+text-align: center;
+
+}
+
+h1{
+    font-weight: 10000;
+}
+
+@media (max-height:800px){
+    p {
+      font-size: 10px;
+    }
+
+.thick-red-border{
+    border:10px red;
+    
+}
+
+img {
+    
+    padding-left: 200px;
+    text-align: center;
+    }    
+    
+    img {
+  max-width: 500%;
+  height: auto;
+}
+
+#thumbnail {box-shadow: 0 0px 20px rgba(0,0,0,0.19), 0 6px 6px;}
+
+
+input {
+    color: red;
+}
+
+label{color:#d4d4d4;
+}
+
+label{color:#e6c778;
+}
+
+label{color:#532424;
+}
+
+.larger-image{
+ width: 1140px;
+    text-align: center;
+}
+
+.red-background{
+  background-color: rgba(209, 6, 6, 0.56);  
+    
+}
+
+[type='radio']{
+    margin: 0px 20px 0px 20px;
+    
+}
+ 
+[type='checkbox'] {
+    margin: 20px 20px 20px 20px;
+}
+
+footer{
+    margin-top: 100px;
+    display: flex;
+}
+
+
+
+</style>
+#Drop off date {
+    margin-bottom: 75px;
+    margin-top: 75px;
+}
